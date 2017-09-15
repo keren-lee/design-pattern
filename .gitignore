@@ -1,0 +1,12 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/abstract-factory-pattern/target/
+/abstract-factory-pattern/.settings/
+/abstract-factory-pattern/.classpath
+/abstract-factory-pattern/.project
+/factory-pattern/.settings/
+/factory-pattern/.classpath
+/factory-pattern/.project
+/factory-pattern/target/
